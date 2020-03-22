@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial;
+}
+
+body {
+    padding: 20px 20px;
+    background-image: linear-gradient(white, #60b9e3);
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+a {
+    text-decoration: none;
+    color:#60b9e3;
+    padding-right: 10px;
+}
+
+a:hover {
+    color: red;
+}
+
+table {
+    box-sizing: border-box;
+    border-radius: 10px;
+    /*padding: 10px;*/
+    box-shadow: 0 0 20px black;
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+th {
+    padding-left: 30px;
+}
+
+
+
+td {
+    padding-bottom: 15px;
+}
+
+tr {
+    margin-left: 20px;
+    padding-right: 40px
+}
+.klasa{
+    margin-bottom: 20px;
+    text-align: center;
+}

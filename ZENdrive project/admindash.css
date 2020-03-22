@@ -1,0 +1,38 @@
+
+* {
+    font-family: Arial;
+    background-image: linear-gradient(#60b9e3, lightgrey);
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+a {
+    color: grey ;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+body {
+    text-align: center;
+    background-color: #60b9e3;
+}
+
+label {
+    color: white;
+}
+
+body {
+    padding-top: 30px;
+}
+
+p {
+    color: white;
+}
+
+button {
+    color: white;
+    font-weight: bold;
+    height: 50px;
+    width: 70px;
+}
